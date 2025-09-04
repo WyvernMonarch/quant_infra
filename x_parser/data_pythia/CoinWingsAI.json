@@ -1,0 +1,606 @@
+{
+  "username": "CoinWingsAI",
+  "tweets_count": 60,
+  "tweets": [
+    {
+      "parse_timestamp": "2025-09-03T13:22:18.645730+00:00",
+      "text": "Whale Sell Alert - $IDOL on #bsc\n Token: MEET48 Token(IDOL)\n Signal Type: Large Sell by Whale\n CA: 0x3b4de3c7855c03bb9f50ea252cd2c9fa1125ab07\n\n Avg Sell Price: $0.07965  | Total Sell Amount: $69,861.68\n Alert Price: $0.02403\n Alert Market Cap: $21,688,828.79",
+      "timestamp": "2025-09-03T13:20:31.000Z",
+      "url": "https://x.comhttps://x.com/CoinWingsAI/status/1963230626443833799",
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "views": 0
+    },
+    {
+      "parse_timestamp": "2025-09-03T13:22:18.676736+00:00",
+      "text": "Smart Money Sell Alert - $SPARK on #solana\n Token: Illusion of Life(SPARK)\n Signal Type: Large Sell by Smart Money\n CA: 5zCETicUCJqJ5Z3wbfFPZqtSpHPYqnggs1wX7ZRpump\n\n Avg Sell Price: $0.3705  | Total Sell Amount: $74,090.26\n Alert Price: $0.01937\n Alert Market",
+      "timestamp": "2025-09-03T13:07:40.000Z",
+      "url": "https://x.comhttps://x.com/CoinWingsAI/status/1963227395508539566",
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "views": 41
+    },
+    {
+      "parse_timestamp": "2025-09-03T13:22:18.708985+00:00",
+      "text": "Smart Money Buy Alert - $MNDE on #solana\n Token: Marinade(MNDE)\n Signal Type: Large Buy by Smart Money\n CA: MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey\n\n Avg Buy Price: $0.7167  | Total Buy Amount: $49,783.94\n Alert Price: $0.1436\n Alert Market Cap:",
+      "timestamp": "2025-09-03T12:37:59.000Z",
+      "url": "https://x.comhttps://x.com/CoinWingsAI/status/1963219926392750568",
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "views": 29
+    },
+    {
+      "parse_timestamp": "2025-09-03T13:22:18.735043+00:00",
+      "text": "Smart Money Sell Alert - $PTB on #bsc\n Token: Portal To Bitcoin(PTB)\n Signal Type: Smart Money Sell (7 addresses)\n CA: 0x95c9b514566fbd224dc2037f5914eb8ab91c9201\n\n Avg Sell Price: $0.03477  | Total Sell Amount: $5,182.76\n Alert Price: $0.03263\n Alert Market Cap:",
+      "timestamp": "2025-09-03T12:01:43.000Z",
+      "url": "https://x.comhttps://x.com/CoinWingsAI/status/1963210799050268746",
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "views": 69
+    },
+    {
+      "parse_timestamp": "2025-09-03T13:22:21.147929+00:00",
+      "text": "Smart Money Buy Alert - $PTB on #bsc\n Token: Portal To Bitcoin(PTB)\n Signal Type: Smart Money Buy (8 addresses)\n CA: 0x95c9b514566fbd224dc2037f5914eb8ab91c9201\n\n Avg Buy Price: $0.03271  | Total Buy Amount: $6,427.45\n Alert Price: $0.03268\n Alert Market Cap:",
+      "timestamp": "2025-09-03T12:01:28.000Z",
+      "url": "https://x.comhttps://x.com/CoinWingsAI/status/1963210736026718528",
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "views": 61
+    },
+    {
+      "parse_timestamp": "2025-09-03T13:22:21.172218+00:00",
+      "text": "Smart Money Buy Alert - $PTB on #bsc\n Token: Portal To Bitcoin(PTB)\n Signal Type: Smart Money Buy (6 addresses)\n CA: 0x95c9b514566fbd224dc2037f5914eb8ab91c9201\n\n Avg Buy Price: $0.03535  | Total Buy Amount: $10,007.01\n Alert Price: $0.03279\n Alert Market Cap:",
+      "timestamp": "2025-09-03T12:01:18.000Z",
+      "url": "https://x.comhttps://x.com/CoinWingsAI/status/1963210694041743813",
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "views": 54
+    },
+    {
+      "parse_timestamp": "2025-09-03T13:22:21.191195+00:00",
+      "text": "Smart Money Sell Alert - $SQUID on #bsc\n Token: Squid Game(SQUID)\n Signal Type: Smart Money Sell (10 addresses)\n CA: 0x87230146e138d3f296a9a77e497a2a83012e9bc5\n\n Avg Sell Price: $0.00683069  | Total Sell Amount: $5,729.63\n Alert Price: $0.00670418\n Alert Market",
+      "timestamp": "2025-09-03T11:56:18.000Z",
+      "url": "https://x.comhttps://x.com/CoinWingsAI/status/1963209435142398439",
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "views": 18
+    },
+    {
+      "parse_timestamp": "2025-09-03T13:22:21.209593+00:00",
+      "text": "Whale Sell Alert - $APU on #eth\n Token: Apu Apustaja(APU)\n Signal Type: Large Sell by Whale\n CA: 0x594daad7d77592a2b97b725a7ad59d7e188b5bfa\n\n Avg Sell Price: $0.00017757  | Total Sell Amount: $142,055.17\n Alert Price: $0.00017757\n Alert Market Cap: $59,999,152.52",
+      "timestamp": "2025-09-03T11:19:12.000Z",
+      "url": "https://x.comhttps://x.com/CoinWingsAI/status/1963200099062047201",
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "views": 67
+    },
+    {
+      "parse_timestamp": "2025-09-03T13:22:21.228243+00:00",
+      "text": "Smart Money Sell Alert - $KOGE on #bsc\n Token: BNB48 Club Token(KOGE)\n Signal Type: Large Sell by Smart Money\n CA: 0xe6df05ce8c8301223373cf5b969afcb1498c5528\n\n Avg Sell Price: $48.007  | Total Sell Amount: $121,398.59\n Alert Price: $48.007\n Alert Market Cap:",
+      "timestamp": "2025-09-03T11:17:22.000Z",
+      "url": "https://x.comhttps://x.com/CoinWingsAI/status/1963199637273334028",
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "views": 12
+    },
+    {
+      "parse_timestamp": "2025-09-03T13:22:21.251100+00:00",
+      "text": "Whale Sell Alert - $KOGE on #bsc\n Token: BNB48 Club Token(KOGE)\n Signal Type: Large Sell by Whale\n CA: 0xe6df05ce8c8301223373cf5b969afcb1498c5528\n\n Avg Sell Price: $47.997  | Total Sell Amount: $239,987.03\n Alert Price: $47.997\n Alert Market Cap: $162,626,172.69",
+      "timestamp": "2025-09-03T11:14:57.000Z",
+      "url": "https://x.comhttps://x.com/CoinWingsAI/status/1963199028893818948",
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "views": 15
+    },
+    {
+      "parse_timestamp": "2025-09-03T13:22:21.269444+00:00",
+      "text": "Smart Money Buy Alert - $MCH on #bsc\n Token: Moonchain(MCH)\n Signal Type: Smart Money Buy (31 addresses)\n CA: 0xf8f331dfa811132c43c308757cd802ca982b7211\n\n Avg Buy Price: $0.05268  | Total Buy Amount: $37,276.89\n Alert Price: $0.05402\n Alert Market Cap:",
+      "timestamp": "2025-09-03T11:02:12.000Z",
+      "url": "https://x.comhttps://x.com/CoinWingsAI/status/1963195819341070511",
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "views": 51
+    },
+    {
+      "parse_timestamp": "2025-09-03T13:22:21.288332+00:00",
+      "text": "Smart Money Buy Alert - $MCH on #bsc\n Token: Moonchain(MCH)\n Signal Type: Smart Money Buy (6 addresses)\n CA: 0xf8f331dfa811132c43c308757cd802ca982b7211\n\n Avg Buy Price: $0.05272  | Total Buy Amount: $7,364.32\n Alert Price: $0.05402\n Alert Market Cap:",
+      "timestamp": "2025-09-03T11:02:12.000Z",
+      "url": "https://x.comhttps://x.com/CoinWingsAI/status/1963195819164860645",
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "views": 41
+    },
+    {
+      "parse_timestamp": "2025-09-03T13:22:21.306781+00:00",
+      "text": "Smart Money Buy Alert - $MCH on #bsc\n Token: Moonchain(MCH)\n Signal Type: Smart Money Buy (31 addresses)\n CA: 0xf8f331dfa811132c43c308757cd802ca982b7211\n\n Avg Buy Price: $0.05268  | Total Buy Amount: $37,276.89\n Alert Price: $0.05402\n Alert Market Cap:",
+      "timestamp": "2025-09-03T11:02:12.000Z",
+      "url": "https://x.comhttps://x.com/CoinWingsAI/status/1963195818342822242",
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "views": 52
+    },
+    {
+      "parse_timestamp": "2025-09-03T13:22:21.324668+00:00",
+      "text": "Smart Money Sell Alert - $MCH on #bsc\n Token: Moonchain(MCH)\n Signal Type: Smart Money Sell (9 addresses)\n CA: 0xf8f331dfa811132c43c308757cd802ca982b7211\n\n Avg Sell Price: $0.05173  | Total Sell Amount: $11,485.43\n Alert Price: $0.05306\n Alert Market Cap:",
+      "timestamp": "2025-09-03T11:02:02.000Z",
+      "url": "https://x.comhttps://x.com/CoinWingsAI/status/1963195776416522337",
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "views": 45
+    },
+    {
+      "parse_timestamp": "2025-09-03T13:22:21.342136+00:00",
+      "text": "Smart Money Buy Alert - $MCH on #bsc\n Token: Moonchain(MCH)\n Signal Type: Smart Money Buy (6 addresses)\n CA: 0xf8f331dfa811132c43c308757cd802ca982b7211\n\n Avg Buy Price: $0.04956  | Total Buy Amount: $4,598.90\n Alert Price: $0.04956\n Alert Market Cap:",
+      "timestamp": "2025-09-03T11:01:52.000Z",
+      "url": "https://x.comhttps://x.com/CoinWingsAI/status/1963195734356004867",
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "views": 46
+    },
+    {
+      "parse_timestamp": "2025-09-03T13:22:21.361952+00:00",
+      "text": "Smart Money Buy Alert - $MCH on #bsc\n Token: Moonchain(MCH)\n Signal Type: Smart Money Buy (6 addresses)\n CA: 0xf8f331dfa811132c43c308757cd802ca982b7211\n\n Avg Buy Price: $0.05158  | Total Buy Amount: $3,490.31\n Alert Price: $0.04905\n Alert Market Cap:",
+      "timestamp": "2025-09-03T11:01:47.000Z",
+      "url": "https://x.comhttps://x.com/CoinWingsAI/status/1963195714286305529",
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "views": 47
+    },
+    {
+      "parse_timestamp": "2025-09-03T13:22:21.380293+00:00",
+      "text": "Smart Money Buy Alert - $MCH on #bsc\n Token: Moonchain(MCH)\n Signal Type: Smart Money Buy (10 addresses)\n CA: 0xf8f331dfa811132c43c308757cd802ca982b7211\n\n Avg Buy Price: $0.04870  | Total Buy Amount: $12,057.07\n Alert Price: $0.04867\n Alert Market Cap:",
+      "timestamp": "2025-09-03T11:01:47.000Z",
+      "url": "https://x.comhttps://x.com/CoinWingsAI/status/1963195713367752809",
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "views": 36
+    },
+    {
+      "parse_timestamp": "2025-09-03T13:22:25.496952+00:00",
+      "text": "Smart Money Buy Alert - $MCH on #bsc\n Token: Moonchain(MCH)\n Signal Type: Smart Money Buy (6 addresses)\n CA: 0xf8f331dfa811132c43c308757cd802ca982b7211\n\n Avg Buy Price: $0.06908  | Total Buy Amount: $6,532.28\n Alert Price: $0.06390\n Alert Market Cap:",
+      "timestamp": "2025-09-03T11:01:17.000Z",
+      "url": "https://x.comhttps://x.com/CoinWingsAI/status/1963195587375116706",
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "views": 30
+    },
+    {
+      "parse_timestamp": "2025-09-03T13:22:25.518042+00:00",
+      "text": "Smart Money Sell Alert - $TAKE on #bsc\n Token: TAKE(TAKE)\n Signal Type: Smart Money Sell (6 addresses)\n CA: 0xe747e54783ba3f77a8e5251a3cba19ebe9c0e197\n\n Avg Sell Price: $0.1104  | Total Sell Amount: $9,094.98\n Alert Price: $0.1109\n Alert Market Cap:",
+      "timestamp": "2025-09-03T10:16:30.000Z",
+      "url": "https://x.comhttps://x.com/CoinWingsAI/status/1963184320694415702",
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "views": 11
+    },
+    {
+      "parse_timestamp": "2025-09-03T13:22:25.541157+00:00",
+      "text": "Smart Money Sell Alert - $TAKE on #bsc\n Token: TAKE(TAKE)\n Signal Type: Smart Money Sell (6 addresses)\n CA: 0xe747e54783ba3f77a8e5251a3cba19ebe9c0e197\n\n Avg Sell Price: $0.1144  | Total Sell Amount: $49,123.56\n Alert Price: $0.1137\n Alert Market Cap:",
+      "timestamp": "2025-09-03T10:02:00.000Z",
+      "url": "https://x.comhttps://x.com/CoinWingsAI/status/1963180669548560851",
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "views": 11
+    },
+    {
+      "parse_timestamp": "2025-09-03T13:22:25.562576+00:00",
+      "text": "Smart Money Buy Alert - $BOT on #bsc\n Token: HyperBot(BOT)\n Signal Type: Smart Money Buy (36 addresses)\n CA: 0x59537849f2a119ec698c7aa6c6daadc40c398a25\n\n Avg Buy Price: $0.02950  | Total Buy Amount: $47,588.94\n Alert Price: $0.03031\n Alert Market Cap:",
+      "timestamp": "2025-09-03T10:01:25.000Z",
+      "url": "https://x.comhttps://x.com/CoinWingsAI/status/1963180523460952500",
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "views": 44
+    },
+    {
+      "parse_timestamp": "2025-09-03T13:22:25.583916+00:00",
+      "text": "Smart Money Buy Alert - $BOT on #bsc\n Token: HyperBot(BOT)\n Signal Type: Smart Money Buy (11 addresses)\n CA: 0x59537849f2a119ec698c7aa6c6daadc40c398a25\n\n Avg Buy Price: $0.03031  | Total Buy Amount: $12,649.90\n Alert Price: $0.03031\n Alert Market Cap:",
+      "timestamp": "2025-09-03T10:01:25.000Z",
+      "url": "https://x.comhttps://x.com/CoinWingsAI/status/1963180522458513497",
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "views": 46
+    },
+    {
+      "parse_timestamp": "2025-09-03T13:22:25.606001+00:00",
+      "text": "Smart Money Buy Alert - $BOT on #bsc\n Token: HyperBot(BOT)\n Signal Type: Smart Money Buy (36 addresses)\n CA: 0x59537849f2a119ec698c7aa6c6daadc40c398a25\n\n Avg Buy Price: $0.02950  | Total Buy Amount: $47,588.94\n Alert Price: $0.03031\n Alert Market Cap:",
+      "timestamp": "2025-09-03T10:01:25.000Z",
+      "url": "https://x.comhttps://x.com/CoinWingsAI/status/1963180521829335049",
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "views": 37
+    },
+    {
+      "parse_timestamp": "2025-09-03T13:22:25.627576+00:00",
+      "text": "Smart Money Buy Alert - $BOT on #bsc\n Token: HyperBot(BOT)\n Signal Type: Smart Money Buy (10 addresses)\n CA: 0x59537849f2a119ec698c7aa6c6daadc40c398a25\n\n Avg Buy Price: $0.02860  | Total Buy Amount: $17,396.23\n Alert Price: $0.02863\n Alert Market Cap:",
+      "timestamp": "2025-09-03T10:01:20.000Z",
+      "url": "https://x.comhttps://x.com/CoinWingsAI/status/1963180500887159004",
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "views": 27
+    },
+    {
+      "parse_timestamp": "2025-09-03T13:22:25.647503+00:00",
+      "text": "Smart Money Buy Alert - $BOT on #bsc\n Token: HyperBot(BOT)\n Signal Type: Smart Money Buy (10 addresses)\n CA: 0x59537849f2a119ec698c7aa6c6daadc40c398a25\n\n Avg Buy Price: $0.02839  | Total Buy Amount: $10,880.88\n Alert Price: $0.02829\n Alert Market Cap:",
+      "timestamp": "2025-09-03T10:01:15.000Z",
+      "url": "https://x.comhttps://x.com/CoinWingsAI/status/1963180479970152894",
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "views": 28
+    },
+    {
+      "parse_timestamp": "2025-09-03T13:22:25.667806+00:00",
+      "text": "Smart Money Buy Alert - $BOT on #bsc\n Token: HyperBot(BOT)\n Signal Type: Smart Money Buy (6 addresses)\n CA: 0x59537849f2a119ec698c7aa6c6daadc40c398a25\n\n Avg Buy Price: $0.03486  | Total Buy Amount: $4,698.15\n Alert Price: $0.03099\n Alert Market Cap:",
+      "timestamp": "2025-09-03T10:01:05.000Z",
+      "url": "https://x.comhttps://x.com/CoinWingsAI/status/1963180437930733828",
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "views": 33
+    },
+    {
+      "parse_timestamp": "2025-09-03T13:22:25.690038+00:00",
+      "text": "Smart Money Sell Alert - $TAKE on #bsc\n Token: TAKE(TAKE)\n Signal Type: Smart Money Sell (6 addresses)\n CA: 0xe747e54783ba3f77a8e5251a3cba19ebe9c0e197\n\n Avg Sell Price: $0.1168  | Total Sell Amount: $16,216.20\n Alert Price: $0.1183\n Alert Market Cap:",
+      "timestamp": "2025-09-03T09:55:55.000Z",
+      "url": "https://x.comhttps://x.com/CoinWingsAI/status/1963179137172205882",
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "views": 23
+    },
+    {
+      "parse_timestamp": "2025-09-03T13:22:25.710384+00:00",
+      "text": "Smart Money Buy Alert - $ARIA on #bsc\n Token: http://ARIA.AI(ARIA)\n Signal Type: Smart Money Buy (6 addresses)\n CA: 0x5d3a12c42e5372b2cc3264ab3cdcf660a1555238\n\n Avg Buy Price: $0.1013  | Total Buy Amount: $55,542.88\n Alert Price: $0.1041\n Alert Market",
+      "timestamp": "2025-09-03T09:55:25.000Z",
+      "url": "https://x.comhttps://x.com/CoinWingsAI/status/1963179011200405607",
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "views": 27
+    },
+    {
+      "parse_timestamp": "2025-09-03T13:22:25.733674+00:00",
+      "text": "Smart Money Buy Alert - $TAKE on #bsc\n Token: TAKE(TAKE)\n Signal Type: Smart Money Buy (6 addresses)\n CA: 0xe747e54783ba3f77a8e5251a3cba19ebe9c0e197\n\n Avg Buy Price: $0.1164  | Total Buy Amount: $24,667.82\n Alert Price: $0.1132\n Alert Market Cap: $14,859,580.75",
+      "timestamp": "2025-09-03T09:54:35.000Z",
+      "url": "https://x.comhttps://x.com/CoinWingsAI/status/1963178801380401648",
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "views": 23
+    },
+    {
+      "parse_timestamp": "2025-09-03T13:22:29.346853+00:00",
+      "text": "Smart Money Buy Alert - $TAKE on #bsc\n Token: TAKE(TAKE)\n Signal Type: Smart Money Buy (6 addresses)\n CA: 0xe747e54783ba3f77a8e5251a3cba19ebe9c0e197\n\n Avg Buy Price: $0.1079  | Total Buy Amount: $48,835.69\n Alert Price: $0.1155\n Alert Market Cap: $15,161,682.13",
+      "timestamp": "2025-09-03T09:52:09.000Z",
+      "url": "https://x.comhttps://x.com/CoinWingsAI/status/1963178192942026772",
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "views": 32
+    },
+    {
+      "parse_timestamp": "2025-09-03T13:22:29.365885+00:00",
+      "text": "Smart Money Sell Alert - $TEDDY on #solana\n Token: Matt Furie's Dog(TEDDY)\n Signal Type: Large Sell by Smart Money\n CA: 2JoBaBPNeVKrwPyw3SStvcRXZBqTNBvaTEy7rZTwpump\n\n Avg Sell Price: $0.00036828  | Total Sell Amount: $11,048.31\n Alert Price: $0.00011595\n Alert",
+      "timestamp": "2025-09-03T08:59:33.000Z",
+      "url": "https://x.comhttps://x.com/CoinWingsAI/status/1963164954208698661",
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "views": 27
+    },
+    {
+      "parse_timestamp": "2025-09-03T13:22:29.385661+00:00",
+      "text": "Smart Money Buy Alert - $TEDDY on #solana\n Token: Matt Furie's Dog(TEDDY)\n Signal Type: Large Buy by Smart Money\n CA: 2JoBaBPNeVKrwPyw3SStvcRXZBqTNBvaTEy7rZTwpump\n\n Avg Buy Price: $0.00447425  | Total Buy Amount: $15,080.17\n Alert Price: $0.00018574\n Alert Market",
+      "timestamp": "2025-09-03T08:58:18.000Z",
+      "url": "https://x.comhttps://x.com/CoinWingsAI/status/1963164639472275646",
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "views": 22
+    },
+    {
+      "parse_timestamp": "2025-09-03T13:22:29.405190+00:00",
+      "text": "Smart Money Buy Alert - $TEDDY on #solana\n Token: Matt Furie's Dog(TEDDY)\n Signal Type: Large Buy by Smart Money\n CA: 2JoBaBPNeVKrwPyw3SStvcRXZBqTNBvaTEy7rZTwpump\n\n Avg Buy Price: $0.00145359  | Total Buy Amount: $10,944.26\n Alert Price: $0.00013759\n Alert Market",
+      "timestamp": "2025-09-03T08:54:48.000Z",
+      "url": "https://x.comhttps://x.com/CoinWingsAI/status/1963163758173573482",
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "views": 27
+    },
+    {
+      "parse_timestamp": "2025-09-03T13:22:29.423324+00:00",
+      "text": "Smart Money Buy Alert - $TEDDY on #solana\n Token: Matt Furie's Dog(TEDDY)\n Signal Type: Large Buy by Smart Money\n CA: 2JoBaBPNeVKrwPyw3SStvcRXZBqTNBvaTEy7rZTwpump\n\n Avg Buy Price: $0.00224139  | Total Buy Amount: $30,310.54\n Alert Price: $0.00007656\n Alert Market",
+      "timestamp": "2025-09-03T08:41:28.000Z",
+      "url": "https://x.comhttps://x.com/CoinWingsAI/status/1963160401019044151",
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "views": 30
+    },
+    {
+      "parse_timestamp": "2025-09-03T13:22:29.441879+00:00",
+      "text": "Smart Money Buy Alert - $TEDDY on #solana\n Token: Matt Furie's Dog(TEDDY)\n Signal Type: Large Buy by Smart Money\n CA: 2JoBaBPNeVKrwPyw3SStvcRXZBqTNBvaTEy7rZTwpump\n\n Avg Buy Price: $0.00736764  | Total Buy Amount: $27,384.72\n Alert Price: $0.00005573\n Alert Market",
+      "timestamp": "2025-09-03T08:39:32.000Z",
+      "url": "https://x.comhttps://x.com/CoinWingsAI/status/1963159918527328279",
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "views": 31
+    },
+    {
+      "parse_timestamp": "2025-09-03T13:22:29.460294+00:00",
+      "text": "Smart Money Sell Alert - $TEDDY on #solana\n Token: Matt Furie's Dog(TEDDY)\n Signal Type: Large Sell by Smart Money\n CA: 2JoBaBPNeVKrwPyw3SStvcRXZBqTNBvaTEy7rZTwpump\n\n Avg Sell Price: $0.00064975  | Total Sell Amount: $25,990.12\n Alert Price: $0.00005232\n Alert",
+      "timestamp": "2025-09-03T08:38:42.000Z",
+      "url": "https://x.comhttps://x.com/CoinWingsAI/status/1963159708736569734",
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "views": 37
+    },
+    {
+      "parse_timestamp": "2025-09-03T13:22:29.478444+00:00",
+      "text": "Smart Money Sell Alert - $TEDDY on #solana\n Token: Matt Furie's Dog(TEDDY)\n Signal Type: Large Sell by Smart Money\n CA: 2JoBaBPNeVKrwPyw3SStvcRXZBqTNBvaTEy7rZTwpump\n\n Avg Sell Price: $0.00036595  | Total Sell Amount: $12,247.51\n Alert Price: $0.00009202\n Alert",
+      "timestamp": "2025-09-03T08:36:27.000Z",
+      "url": "https://x.comhttps://x.com/CoinWingsAI/status/1963159142279102469",
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "views": 34
+    },
+    {
+      "parse_timestamp": "2025-09-03T13:22:29.497344+00:00",
+      "text": "Smart Money Buy Alert - $TEDDY on #solana\n Token: Matt Furie's Dog(TEDDY)\n Signal Type: Large Buy by Smart Money\n CA: 2JoBaBPNeVKrwPyw3SStvcRXZBqTNBvaTEy7rZTwpump\n\n Avg Buy Price: $0.00039143  | Total Buy Amount: $13,100.37\n Alert Price: $0.00010988\n Alert Market",
+      "timestamp": "2025-09-03T08:36:12.000Z",
+      "url": "https://x.comhttps://x.com/CoinWingsAI/status/1963159079133798835",
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "views": 34
+    },
+    {
+      "parse_timestamp": "2025-09-03T13:22:29.516422+00:00",
+      "text": "Smart Money Buy Alert - $emmm on #bsc\n Token: emmm(emmm)\n Signal Type: Smart Money Buy (6 addresses)\n CA: 0x11471f07151142960b2c008d86865798d69c4444\n\n Avg Buy Price: $0.01626  | Total Buy Amount: $11,596.34\n Alert Price: $0.01714\n Alert Market Cap: $17,136,788.74",
+      "timestamp": "2025-09-03T08:12:22.000Z",
+      "url": "https://x.comhttps://x.com/CoinWingsAI/status/1963153078393479664",
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "views": 31
+    },
+    {
+      "parse_timestamp": "2025-09-03T13:22:29.534375+00:00",
+      "text": "Smart Money Sell Alert - $Totakeke on #bsc\n Token: Dark Cheems(Totakeke)\n Signal Type: Smart Money Sell (7 addresses)\n CA: 0xd743d3c50ebd82f9173b599383979d10f3494444\n\n Avg Sell Price: $0.00465635  | Total Sell Amount: $18,879.16\n Alert Price: $0.00423996\n Alert",
+      "timestamp": "2025-09-03T08:10:12.000Z",
+      "url": "https://x.comhttps://x.com/CoinWingsAI/status/1963152533196882274",
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "views": 30
+    },
+    {
+      "parse_timestamp": "2025-09-03T13:22:29.558020+00:00",
+      "text": "Whale Buy Alert - $USELESS on #solana\n Token: USELESS COIN(USELESS)\n Signal Type: Large Buy by Whale\n CA: Dz9mQ9NzkBcCsuGPFJ3r1bS4wgqKMHBPiVuniW8Mbonk\n\n Avg Buy Price: $0.1755  | Total Buy Amount: $132,446.91\n Alert Price: $0.1755\n Alert Market Cap:",
+      "timestamp": "2025-09-03T05:28:28.000Z",
+      "url": "https://x.comhttps://x.com/CoinWingsAI/status/1963111832262160751",
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "views": 48
+    },
+    {
+      "parse_timestamp": "2025-09-03T13:22:29.585051+00:00",
+      "text": "Smart Money Buy Alert - $HUCH on #solana\n Token: Huch(HUCH)\n Signal Type: Smart Money Buy (6 addresses)\n CA: B8zW7B8T7ntCiiRYw18jrFu9MBqMZVk9pP7nYyT5iBLV\n\n Avg Buy Price: $0.00873806  | Total Buy Amount: $9,745.03\n Alert Price: $0.00925077\n Alert Market Cap:",
+      "timestamp": "2025-09-03T04:11:11.000Z",
+      "url": "https://x.comhttps://x.com/CoinWingsAI/status/1963092383249346955",
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "views": 96
+    },
+    {
+      "parse_timestamp": "2025-09-03T13:22:29.604600+00:00",
+      "text": "Smart Money Buy Alert - $GARY  on #solana\n Token: US PENTAGON AI AGENT(GARY )\n Signal Type: Smart Money Buy (6 addresses)\n CA: F7urVZmRiRpcsZBkWfg3tKbHDACXtRNqcMcxk1bzpump\n\n Avg Buy Price: $0.00017257  | Total Buy Amount: $10,792.81\n Alert Price: $0.00028066",
+      "timestamp": "2025-09-03T03:47:50.000Z",
+      "url": "https://x.comhttps://x.com/CoinWingsAI/status/1963086508677816746",
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "views": 71
+    },
+    {
+      "parse_timestamp": "2025-09-03T13:22:29.625385+00:00",
+      "text": "Whale Buy Alert - $ZARD on #solana\n Token: Charizard Capital(ZARD)\n Signal Type: Large Buy by Whale\n CA: EebvSxfGbjyHMJ2bu1jhtNidbhVbQJtcg9y561Kipump\n\n Avg Buy Price: $0.00548642  | Total Buy Amount: $65,057.56\n Alert Price: $0.00548642\n Alert Market Cap:",
+      "timestamp": "2025-09-03T03:17:49.000Z",
+      "url": "https://x.comhttps://x.com/CoinWingsAI/status/1963078955696849267",
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "views": 52
+    },
+    {
+      "parse_timestamp": "2025-09-03T13:22:31.854899+00:00",
+      "text": "Smart Money Buy Alert - $HUCH on #solana\n Token: Huch(HUCH)\n Signal Type: Smart Money Buy (6 addresses)\n CA: B8zW7B8T7ntCiiRYw18jrFu9MBqMZVk9pP7nYyT5iBLV\n\n Avg Buy Price: $0.00744451  | Total Buy Amount: $106,877.66\n Alert Price: $0.00786815\n Alert Market Cap:",
+      "timestamp": "2025-09-03T03:16:19.000Z",
+      "url": "https://x.comhttps://x.com/CoinWingsAI/status/1963078577903305202",
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "views": 94
+    },
+    {
+      "parse_timestamp": "2025-09-03T13:22:31.878910+00:00",
+      "text": "Smart Money Buy Alert - $HUCH on #solana\n Token: Huch(HUCH)\n Signal Type: Large Buy by Smart Money\n CA: B8zW7B8T7ntCiiRYw18jrFu9MBqMZVk9pP7nYyT5iBLV\n\n Avg Buy Price: $0.00744488  | Total Buy Amount: $99,285.05\n Alert Price: $0.00744488\n Alert Market Cap:",
+      "timestamp": "2025-09-03T03:12:04.000Z",
+      "url": "https://x.comhttps://x.com/CoinWingsAI/status/1963077507906998505",
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "views": 97
+    },
+    {
+      "parse_timestamp": "2025-09-03T13:22:31.898659+00:00",
+      "text": "Smart Money Buy Alert - $CARDS on #solana\n Token: Collector Crypt(CARDS)\n Signal Type: Large Buy by Smart Money\n CA: CARDSccUMFKoPRZxt5vt3ksUbxEFEcnZ3H2pd3dKxYjp\n\n Avg Buy Price: $0.09414  | Total Buy Amount: $107,736.86\n Alert Price: $0.09414\n Alert Market Cap:",
+      "timestamp": "2025-09-03T02:59:54.000Z",
+      "url": "https://x.comhttps://x.com/CoinWingsAI/status/1963074444840358084",
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "views": 164
+    },
+    {
+      "parse_timestamp": "2025-09-03T13:22:31.921721+00:00",
+      "text": "Smart Money Buy Alert - $CARDS on #solana\n Token: Collector Crypt(CARDS)\n Signal Type: Smart Money Buy (6 addresses)\n CA: CARDSccUMFKoPRZxt5vt3ksUbxEFEcnZ3H2pd3dKxYjp\n\n Avg Buy Price: $0.08949  | Total Buy Amount: $69,180.24\n Alert Price: $0.09328\n Alert Market",
+      "timestamp": "2025-09-03T02:31:53.000Z",
+      "url": "https://x.comhttps://x.com/CoinWingsAI/status/1963067395540713836",
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "views": 147
+    },
+    {
+      "parse_timestamp": "2025-09-03T13:22:31.941658+00:00",
+      "text": "Whales & Smart Buy Alert - $CARDS on #solana\n Token: Collector Crypt(CARDS)\n Signal Type: Whales & Smart Buy (30 addresses)\n CA: CARDSccUMFKoPRZxt5vt3ksUbxEFEcnZ3H2pd3dKxYjp\n\n Avg Buy Price: $0.09006  | Total Buy Amount: $206,144.83\n Alert Price: $0.09328\n Alert",
+      "timestamp": "2025-09-03T02:31:53.000Z",
+      "url": "https://x.comhttps://x.com/CoinWingsAI/status/1963067395440050581",
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "views": 143
+    },
+    {
+      "parse_timestamp": "2025-09-03T13:22:31.969709+00:00",
+      "text": "Whale Buy Alert - $CARDS on #solana\n Token: Collector Crypt(CARDS)\n Signal Type: Whale Buy (6 addresses)\n CA: CARDSccUMFKoPRZxt5vt3ksUbxEFEcnZ3H2pd3dKxYjp\n\n Avg Buy Price: $0.09035  | Total Buy Amount: $136,964.59\n Alert Price: $0.09328\n Alert Market Cap:",
+      "timestamp": "2025-09-03T02:31:48.000Z",
+      "url": "https://x.comhttps://x.com/CoinWingsAI/status/1963067374502084902",
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "views": 113
+    },
+    {
+      "parse_timestamp": "2025-09-03T13:22:31.993968+00:00",
+      "text": "Whale Buy Alert - $cbBTC on #solana\n Token: Coinbase Wrapped BTC(cbBTC)\n Signal Type: Large Buy by Whale\n CA: cbbtcf3aa214zXHbiAZQwf4122FBYbraNdFqgw4iMij\n\n Avg Buy Price: $110,924.55  | Total Buy Amount: $215,459.74\n Alert Price: $110,924.55\n Alert Market Cap:",
+      "timestamp": "2025-09-03T01:42:42.000Z",
+      "url": "https://x.comhttps://x.com/CoinWingsAI/status/1963055018279686575",
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "views": 20
+    },
+    {
+      "parse_timestamp": "2025-09-03T13:22:32.015975+00:00",
+      "text": "Whale Sell Alert - $WBTC on #solana\n Token: Wrapped BTC (Wormhole)(WBTC)\n Signal Type: Large Sell by Whale\n CA: 3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh\n\n Avg Sell Price: $111,012.63  | Total Sell Amount: $215,574.47\n Alert Price: $111,012.63\n Alert Market",
+      "timestamp": "2025-09-03T01:42:42.000Z",
+      "url": "https://x.comhttps://x.com/CoinWingsAI/status/1963055017365287405",
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "views": 34
+    },
+    {
+      "parse_timestamp": "2025-09-03T13:22:32.036708+00:00",
+      "text": "Whale Buy Alert - $MITCH on #solana\n Token: idrawline(MITCH)\n Signal Type: Whale Buy (6 addresses)\n CA: FDEF2U9geiWS7sdGPCUo2r1wGswkJr2mmVTECiH6pump\n\n Avg Buy Price: $0.02829  | Total Buy Amount: $21,215.69\n Alert Price: $0.03110\n Alert Market Cap: $31,100,402.67",
+      "timestamp": "2025-09-03T00:13:25.000Z",
+      "url": "https://x.comhttps://x.com/CoinWingsAI/status/1963032548914954547",
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "views": 250
+    },
+    {
+      "parse_timestamp": "2025-09-03T13:22:32.056628+00:00",
+      "text": "Whales & Smart Buy Alert - $MITCH on #solana\n Token: idrawline(MITCH)\n Signal Type: Whales & Smart Buy (22 addresses)\n CA: FDEF2U9geiWS7sdGPCUo2r1wGswkJr2mmVTECiH6pump\n\n Avg Buy Price: $0.02730  | Total Buy Amount: $87,415.22\n Alert Price: $0.03110\n Alert Market",
+      "timestamp": "2025-09-03T00:13:25.000Z",
+      "url": "https://x.comhttps://x.com/CoinWingsAI/status/1963032548055167309",
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "views": 158
+    },
+    {
+      "parse_timestamp": "2025-09-03T13:22:32.076456+00:00",
+      "text": "Smart Money Buy Alert - $MITCH on #solana\n Token: idrawline(MITCH)\n Signal Type: Smart Money Buy (6 addresses)\n CA: FDEF2U9geiWS7sdGPCUo2r1wGswkJr2mmVTECiH6pump\n\n Avg Buy Price: $0.02549  | Total Buy Amount: $38,895.85\n Alert Price: $0.02601\n Alert Market Cap:",
+      "timestamp": "2025-09-03T00:10:05.000Z",
+      "url": "https://x.comhttps://x.com/CoinWingsAI/status/1963031708883960222",
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "views": 185
+    },
+    {
+      "parse_timestamp": "2025-09-03T13:22:32.098241+00:00",
+      "text": "Smart Money Buy Alert - $Fartcoin on #solana\n Token: Fartcoin (Fartcoin)\n Signal Type: Large Buy by Smart Money\n CA: 9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump\n\n Avg Buy Price: $0.7956  | Total Buy Amount: $297,665.32\n Alert Price: $0.7956\n Alert Market Cap:",
+      "timestamp": "2025-09-03T00:07:05.000Z",
+      "url": "https://x.comhttps://x.com/CoinWingsAI/status/1963030953565290524",
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "views": 47
+    },
+    {
+      "parse_timestamp": "2025-09-03T13:22:32.118722+00:00",
+      "text": "Smart Money Buy Alert - $MITCH on #solana\n Token: idrawline(MITCH)\n Signal Type: Smart Money Buy (6 addresses)\n CA: FDEF2U9geiWS7sdGPCUo2r1wGswkJr2mmVTECiH6pump\n\n Avg Buy Price: $0.02239  | Total Buy Amount: $32,585.11\n Alert Price: $0.02311\n Alert Market Cap:",
+      "timestamp": "2025-09-03T00:01:25.000Z",
+      "url": "https://x.comhttps://x.com/CoinWingsAI/status/1963029526650483073",
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "views": 186
+    },
+    {
+      "parse_timestamp": "2025-09-03T13:22:32.140035+00:00",
+      "text": "Whale Buy Alert - $MITCH on #solana\n Token: idrawline(MITCH)\n Signal Type: Whale Buy (6 addresses)\n CA: FDEF2U9geiWS7sdGPCUo2r1wGswkJr2mmVTECiH6pump\n\n Avg Buy Price: $0.00355482  | Total Buy Amount: $18,028.49\n Alert Price: $0.00530116\n Alert Market Cap:",
+      "timestamp": "2025-09-02T21:54:41.000Z",
+      "url": "https://x.comhttps://x.com/CoinWingsAI/status/1962997635725590574",
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "views": 315
+    },
+    {
+      "parse_timestamp": "2025-09-03T13:22:32.159901+00:00",
+      "text": "Smart Money Buy Alert - $MITCH on #solana\n Token: idrawline(MITCH)\n Signal Type: Smart Money Buy (6 addresses)\n CA: FDEF2U9geiWS7sdGPCUo2r1wGswkJr2mmVTECiH6pump\n\n Avg Buy Price: $0.00389438  | Total Buy Amount: $11,944.29\n Alert Price: $0.00530116\n Alert Market",
+      "timestamp": "2025-09-02T21:54:41.000Z",
+      "url": "https://x.comhttps://x.com/CoinWingsAI/status/1962997635679453333",
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "views": 294
+    },
+    {
+      "parse_timestamp": "2025-09-03T13:22:18.616343+00:00",
+      "text": "$WLFI  If you haven’t downloaded CoinWings yet, I highly recommend you do it now. Why? Because it’s your true crypto assistant.\n\n When Trump launched his own cryptocurrency, many people missed out for various reasons. But when Elon Musk issues his personal token $ELON, do you",
+      "timestamp": "2025-07-04T01:51:11.000Z",
+      "url": "https://x.comhttps://x.com/CoinWingsAI/status/1940951491440963846",
+      "replies": 25,
+      "reposts": 5,
+      "likes": 43,
+      "views": 3869
+    }
+  ]
+}
